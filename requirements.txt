@@ -1,0 +1,11 @@
+pandas
+openpyxl
+numpy
+gensim
+gradio
+openai
+boto3
+python-dotenv
+pyarrow
+fastparquet
+streamlit
